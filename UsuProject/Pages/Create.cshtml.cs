@@ -26,7 +26,7 @@ namespace UsuProject.Pages
             
 
 
-            string connectionString = "Server=.;Database=Gimnasio2;User Id=sa;Password=uts; TrustServerCertificate=True;";
+            string connectionString = "Server=.;Database=Gimnasio2;User Id=sa;Password=Emiliano25; TrustServerCertificate=True;";
 
 
             using (SqlConnection connection = new SqlConnection(connectionString))
